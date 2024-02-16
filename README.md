@@ -18,3 +18,4 @@ The Snake and Ladder game is a classic board game where players roll dice to mov
 
 - JavaFX
 - Scene Builder (for UI design)
+  
